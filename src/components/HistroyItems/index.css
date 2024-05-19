@@ -1,0 +1,5 @@
+.histroy-container {
+  display: flex;
+  margin: 20px;
+  list-style: none;
+}
